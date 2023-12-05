@@ -24,3 +24,7 @@ footer { margin-block-start: auto; }
 main {
   padding: 1rem;
 }
+
+button{
+  padding:  0.5rem;
+}
